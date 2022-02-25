@@ -26,6 +26,8 @@ public class T4_Config_Practice {
         driver.get("https://www.google.com");
     }
 
+
+
     @Test
     public void google_search_test(){
         //3 Write "apple" in the search box
